@@ -1,2 +1,2 @@
-# Profolio
+# Portfolio
 Web Developer Profolio
