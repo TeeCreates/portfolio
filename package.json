@@ -1,0 +1,8 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TeeCreates/profolio.git",
+  "author": "TeeCreates <99111124+TeeCreates@users.noreply.github.com>",
+  "license": "MIT"
+}
